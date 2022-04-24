@@ -1,9 +1,9 @@
-normal
-node
-link
+Normal
+Node
+Link
 VNF
-node+VNF
-persistent black holes
-link+VNF
-persistent Black holes + pod
-qdepth
+Node + VNF
+vSwitch
+vLink + VNF
+VNF + vSwitch
+Node + vSwitch
