@@ -1,1 +1,0 @@
-git mv class.txt /FullSight-Dataset1/class.txt
