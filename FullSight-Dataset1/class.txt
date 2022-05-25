@@ -1,0 +1,9 @@
+Normal
+Node
+Link
+VNF
+Node + VNF
+vSwitch
+vLink + VNF
+VNF + vSwitch
+Node + vSwitch
